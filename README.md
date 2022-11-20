@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanaschita
-- 👀 Since 2019, I'm publishing articles on iOS and Swift topics here on tanaschita.com
+- 👀 Since 2019, I'm publishing articles on iOS and Swift topics on [tanaschita.com](https://tanaschita.com)
 - 🌱 I’m passionate about programming and at least as much about teaching programming
 - 💞️ Besides running tanaschita.com, I'm freelancing as an iOS developer since 2012
 - 📫 If you like to reach out, check out [tanaschita.com/about](https://tanaschita.com/about) for different options
